@@ -1,0 +1,6 @@
+@echo off
+date /t
+time /t
+start chrome https://github.com/wcrvieira151/devetec
+cls
+shutdown -h t60
